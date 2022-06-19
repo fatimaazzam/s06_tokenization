@@ -55,6 +55,9 @@ this process is not easy in the production or the main network, we need to take 
 When the user click on buy token button then Metamask is opened directly, so the user can then click on confirm or reject the transaction as shown in the figure below:
 ![Metamask](https://user-images.githubusercontent.com/27667600/174467715-9510c895-06aa-4063-8018-18ee69e95a7f.PNG)
 
+In case the user confirm the transaction from his wallet (Metamask) then the number of token will be incremented and a gase fees amount will be deducted from the user wallet. And also the user can view his transaction as shown in the figure below:
+
+![transaction](https://user-images.githubusercontent.com/27667600/174467905-0b3a425b-1df3-4dee-b485-1ba5e6578261.PNG)
 
 
 
