@@ -20,5 +20,15 @@ AssetTokenization
      Component-based front-end library responsible only for the view layer of the application.
 
 # Project Digarmas:
+- In our project we use ERC 20 smart contract which is imported from open-zeppelin contract. So the contract is function wise complete. Then this contract will be deployed on test-net through Infura. We will have some sort of UI which an HTML written in react and connected to MetaMask. Blockchain basically will be our database.
 
-- ![Component_digram](https://user-images.githubusercontent.com/27667600/174467411-2ad32f2f-5b45-45e4-b037-1ffe0ce53a53.png)
+ ![Component_digram](https://user-images.githubusercontent.com/27667600/174467411-2ad32f2f-5b45-45e4-b037-1ffe0ce53a53.png)
+
+- As shown in the figure above there are three main components:
+
+   -  ERC 20 Token smart contract:
+    As mentioned previously we used open-zeppelin contracts framework, so ERC 20 will be imported from zeppelin framework.
+   - Initial Supply to Owner: 
+    Full amount of tokens are minted and assigned to the owner.
+   - Initial Crowd-sale contract:
+    External people can buy tokens, then shift token from owner to the crowd- sale people and also they can sell these token to other peoples. 
