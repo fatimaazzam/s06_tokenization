@@ -32,3 +32,8 @@ AssetTokenization
     Full amount of tokens are minted and assigned to the owner.
    - Initial Crowd-sale contract:
     External people can buy tokens, then shift token from owner to the crowd- sale people and also they can sell these token to other peoples. 
+    
+ ![Activity_Diagram](https://user-images.githubusercontent.com/27667600/174467464-57ae83d8-0f9e-4fc8-96cd-95726b54e7d1.png)
+ 
+ When the crowd-sale people sell a token they will send money to the crowd-sale contract by transaction and then they will get the token back. Since
+this process is not easy in the production or the main network, we need to take care of the address that the crowd-sale people send money to, so we build Kyc mock contract to check the whitelist addresses.
