@@ -1,5 +1,6 @@
 # s06_tokenization
-AssetTokenization
+## AssetTokenization:
+In our project, we will build a simple asset tokenization for fungible tokens using solidity to write our smart contacts and also we will use the ERC20 open-zeppelin contracts. For local development we will use Truffle. Then we will deploy our smart contract using Infura.
 # Technologies:
 - Solidity: 
     It is an object-oriented programming language created specifically by the Ethereum Network team for constructing and designing smart contracts on Blockchain platforms. It's used to create smart contracts that implement business logic and generate a chain of transaction records in the blockchain system.
