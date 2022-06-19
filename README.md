@@ -18,3 +18,7 @@ AssetTokenization
       
 - React:
      Component-based front-end library responsible only for the view layer of the application.
+
+# Project Digarmas:
+
+- ![Component_digram](https://user-images.githubusercontent.com/27667600/174467411-2ad32f2f-5b45-45e4-b037-1ffe0ce53a53.png)
