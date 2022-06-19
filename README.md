@@ -23,6 +23,10 @@ Tokenization of assets, or simply put, asset tokenization is a process involving
 - Infura:
     provides the tools and infrastructure that allow developers to easily take their blockchain application from testing to scaled deployment - with simple, reliable access to Ethereum and IPFS.
     
+    We create new project in Infura:
+    ![Infura](https://user-images.githubusercontent.com/27667600/174467988-278d2916-166c-4b6d-8b78-aedc45908e7d.PNG)
+
+    
 - OpenZeppelin Contracts:
      helps you minimize risk by using battle-tested libraries of smart contracts for Ethereum and other blockchains. It includes the most used implementations of ERC standards.
      
