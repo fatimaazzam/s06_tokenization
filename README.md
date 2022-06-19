@@ -1,6 +1,9 @@
 # s06_tokenization
 ## AssetTokenization:
 In our project, we will build a simple asset tokenization for fungible tokens using solidity to write our smart contacts and also we will use the ERC20 open-zeppelin contracts. For local development we will use Truffle. Then we will deploy our smart contract using Infura.
+
+Tokenization of assets, or simply put, asset tokenization is a process involving the transformation of assets on the blockchain. It includes physical as well as non-physical assets and applies to industries including finance, art, real estate, and health care. It is just the way of digitizing tangible and intangible assets and transforming them into tokens. However, a given acid is not necessarily equal to a single token as these are usually fragmented into smaller sections forming a whole token.
+
 # Technologies:
 - Solidity: 
     It is an object-oriented programming language created specifically by the Ethereum Network team for constructing and designing smart contracts on Blockchain platforms. It's used to create smart contracts that implement business logic and generate a chain of transaction records in the blockchain system.
