@@ -6,12 +6,12 @@ Tokenization of assets, or simply put, asset tokenization is a process involving
 
 -There are two types of assets:
 
-    -Fungible asset tokenization.Each unit of the tokenized asset has the same market value and validity — for example, Bitcoin: All units of 1 BTC are exactly the same. They hold the same market value, and are interchangeable. It doesn't matter from whom a BTC was purchased, since all BTC units have the same functionality and are part of the same network. You can swap one-fourth of a BTC for anyone else's one-fourth of a BTC, with confidence that your BTC’s one-fourth holds the same value, despite being one-fourth of different coins. A fungible cryptocurrency can be divided into as many decimal places which were configured during its issuance. Each unit will have the same value and validity.
+    - Fungible asset tokenization.Each unit of the tokenized asset has the same market value and validity — for example, Bitcoin: All units of 1 BTC are exactly the same. They hold the same market value, and are interchangeable. It doesn't matter from whom a BTC was purchased, since all BTC units have the same functionality and are part of the same network. You can swap one-fourth of a BTC for anyone else's one-fourth of a BTC, with confidence that your BTC’s one-fourth holds the same value, despite being one-fourth of different coins. A fungible cryptocurrency can be divided into as many decimal places which were configured during its issuance. Each unit will have the same value and validity.
     
     
-   -Non-fungible asset tokenization. NFTs can't be replaced with tokens of the same type because each token represents a unique value. NFTs are not typically divisible, although F-NFTs do offer fractional ownership of NFTs, such as in the case of expensive fine art or commercial real-estate. Each token differs from another token of the same type and has unique information and attributes.
+   - Non-fungible asset tokenization. NFTs can't be replaced with tokens of the same type because each token represents a unique value. NFTs are not typically divisible, although F-NFTs do offer fractional ownership of NFTs, such as in the case of expensive fine art or commercial real-estate. Each token differs from another token of the same type and has unique information and attributes.
     
-\end{enumerate}
+
 
 # Technologies:
 - Solidity: 
