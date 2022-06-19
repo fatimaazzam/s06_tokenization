@@ -50,3 +50,11 @@ Tokenization of assets, or simply put, asset tokenization is a process involving
  
  When the crowd-sale people sell a token they will send money to the crowd-sale contract by transaction and then they will get the token back. Since
 this process is not easy in the production or the main network, we need to take care of the address that the crowd-sale people send money to, so we build Kyc mock contract to check the whitelist addresses.
+
+# Application:
+When the user click on buy token button then Metamask is opened directly, so the user can then click on confirm or reject the transaction as shown in the figure below:
+![Metamask](https://user-images.githubusercontent.com/27667600/174467715-9510c895-06aa-4063-8018-18ee69e95a7f.PNG)
+
+
+
+
