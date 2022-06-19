@@ -1,8 +1,17 @@
 # s06_tokenization
-## AssetTokenization:
-In our project, we will build a simple asset tokenization for fungible tokens using solidity to write our smart contacts and also we will use the ERC20 open-zeppelin contracts. For local development we will use Truffle. Then we will deploy our smart contract using Infura.
+## Asset Tokenization:
+- In our project, we will build a simple asset tokenization for fungible tokens using solidity to write our smart contacts and also we will use the ERC20 open-zeppelin contracts. For local development we will use Truffle. Then we will deploy our smart contract using Infura.
 
 Tokenization of assets, or simply put, asset tokenization is a process involving the transformation of assets on the blockchain. It includes physical as well as non-physical assets and applies to industries including finance, art, real estate, and health care. It is just the way of digitizing tangible and intangible assets and transforming them into tokens. However, a given acid is not necessarily equal to a single token as these are usually fragmented into smaller sections forming a whole token.
+
+-There are two types of assets:
+
+    -Fungible asset tokenization.Each unit of the tokenized asset has the same market value and validity — for example, Bitcoin: All units of 1 BTC are exactly the same. They hold the same market value, and are interchangeable. It doesn't matter from whom a BTC was purchased, since all BTC units have the same functionality and are part of the same network. You can swap one-fourth of a BTC for anyone else's one-fourth of a BTC, with confidence that your BTC’s one-fourth holds the same value, despite being one-fourth of different coins. A fungible cryptocurrency can be divided into as many decimal places which were configured during its issuance. Each unit will have the same value and validity.
+    
+    
+   -Non-fungible asset tokenization. NFTs can't be replaced with tokens of the same type because each token represents a unique value. NFTs are not typically divisible, although F-NFTs do offer fractional ownership of NFTs, such as in the case of expensive fine art or commercial real-estate. Each token differs from another token of the same type and has unique information and attributes.
+    
+\end{enumerate}
 
 # Technologies:
 - Solidity: 
