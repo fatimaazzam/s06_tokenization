@@ -20,20 +20,20 @@ Tokenization of assets, or simply put, asset tokenization is a process involving
 - ## Truffle: 
     It is a Development Environment, Testing Framework and Asset pipeline for Ethereum Blokchains. Ganache : Ganache is a personal Ethereum Blockchain used to test smart contracts where you can deploy contracts, develop applications, run tests and perform other tasks without any cost.
     
-- Infura:
+- ## Infura:
     provides the tools and infrastructure that allow developers to easily take their blockchain application from testing to scaled deployment - with simple, reliable access to Ethereum and IPFS.
     
     We create new project in Infura:
     ![Infura](https://user-images.githubusercontent.com/27667600/174467988-278d2916-166c-4b6d-8b78-aedc45908e7d.PNG)
 
     
-- OpenZeppelin Contracts:
+- ## OpenZeppelin Contracts:
      helps you minimize risk by using battle-tested libraries of smart contracts for Ethereum and other blockchains. It includes the most used implementations of ERC standards.
      
-- metamask:
+- ## Metamask:
       is a free web and mobile crypto wallet that allows users to store and swap cryptocurrencies, interact with the Ethereum blockchain ecosystem, and host a growing array of decentralized applications (dApps). It is one of the most widely used crypto applications in the world.
       
-- React:
+- ## React:
      Component-based front-end library responsible only for the view layer of the application.
 
 # Project Digarmas:
