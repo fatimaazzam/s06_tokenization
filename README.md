@@ -14,10 +14,10 @@ Tokenization of assets, or simply put, asset tokenization is a process involving
 
 
 # Technologies:
-- Solidity: 
+- ## Solidity: 
     It is an object-oriented programming language created specifically by the Ethereum Network team for constructing and designing smart contracts on Blockchain platforms. It's used to create smart contracts that implement business logic and generate a chain of transaction records in the blockchain system.
     
-- Truffle: 
+- ## Truffle: 
     It is a Development Environment, Testing Framework and Asset pipeline for Ethereum Blokchains. Ganache : Ganache is a personal Ethereum Blockchain used to test smart contracts where you can deploy contracts, develop applications, run tests and perform other tasks without any cost.
     
 - Infura:
